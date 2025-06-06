@@ -1,0 +1,107 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.0.16 Chrome/132.0.6834.196 Electron/34.2.0 Safari/537.36" version="26.0.16">
+  <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
+    <mxGraphModel dx="1886" dy="894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5" value="Alpaka AI System" style="shape=process;whiteSpace=wrap;align=center;verticalAlign=middle;size=0.0475;fontStyle=1;strokeWidth=3;fillColor=#ffe6cc;labelBackgroundColor=none;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="200" y="750" width="400" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="CLu04ml_FDCGcyLXHTy7-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="CLu04ml_FDCGcyLXHTy7-103" target="CLu04ml_FDCGcyLXHTy7-104">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="440" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="150" y="380" />
+              <mxPoint x="150" y="465" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CLu04ml_FDCGcyLXHTy7-133" value="Reports incidents" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" vertex="1" connectable="0" parent="CLu04ml_FDCGcyLXHTy7-132">
+          <mxGeometry x="-0.0956" y="2" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CLu04ml_FDCGcyLXHTy7-103" value="End User" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Person.svg;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" vertex="1" parent="1">
+          <mxGeometry x="30" y="350" width="37" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CLu04ml_FDCGcyLXHTy7-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" edge="1" parent="1" source="CLu04ml_FDCGcyLXHTy7-104" target="CLu04ml_FDCGcyLXHTy7-103">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="59" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CLu04ml_FDCGcyLXHTy7-108" value="Informs about incident status" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" vertex="1" connectable="0" parent="CLu04ml_FDCGcyLXHTy7-107">
+          <mxGeometry x="0.0744" y="-4" relative="1" as="geometry">
+            <mxPoint x="1" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CLu04ml_FDCGcyLXHTy7-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" edge="1" parent="1" source="CLu04ml_FDCGcyLXHTy7-104" target="5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CLu04ml_FDCGcyLXHTy7-143" value="Provides historical data&amp;nbsp;&lt;div&gt;for how similar incidents&amp;nbsp;&lt;/div&gt;&lt;div&gt;were resolved in the past&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" vertex="1" connectable="0" parent="CLu04ml_FDCGcyLXHTy7-142">
+          <mxGeometry x="-0.325" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CLu04ml_FDCGcyLXHTy7-104" value="Existing ITSM System" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" vertex="1" parent="1">
+          <mxGeometry x="210" y="450" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CLu04ml_FDCGcyLXHTy7-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" edge="1" parent="1" source="CLu04ml_FDCGcyLXHTy7-112" target="CLu04ml_FDCGcyLXHTy7-104">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="610" y="300" />
+              <mxPoint x="610" y="350" />
+              <mxPoint x="510" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CLu04ml_FDCGcyLXHTy7-141" value="Investigates,&lt;div&gt;diagnoses, and&lt;/div&gt;&lt;div&gt;resolves incident&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" vertex="1" connectable="0" parent="CLu04ml_FDCGcyLXHTy7-140">
+          <mxGeometry x="-0.0049" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CLu04ml_FDCGcyLXHTy7-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;entryX=0.623;entryY=-0.022;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="CLu04ml_FDCGcyLXHTy7-112" target="5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="740" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="720" y="540" />
+              <mxPoint x="449" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CLu04ml_FDCGcyLXHTy7-147" value="Requests for possible solutions" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" vertex="1" connectable="0" parent="CLu04ml_FDCGcyLXHTy7-146">
+          <mxGeometry x="-0.3029" y="1" relative="1" as="geometry">
+            <mxPoint x="-46" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CLu04ml_FDCGcyLXHTy7-112" value="IT Support Service Pool" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Support_2.svg;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" vertex="1" parent="1">
+          <mxGeometry x="700" y="260" width="32" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CLu04ml_FDCGcyLXHTy7-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.031;entryY=0.28;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" edge="1" parent="1" source="CLu04ml_FDCGcyLXHTy7-104" target="CLu04ml_FDCGcyLXHTy7-112">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CLu04ml_FDCGcyLXHTy7-138" value="Assigns incident" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" vertex="1" connectable="0" parent="CLu04ml_FDCGcyLXHTy7-137">
+          <mxGeometry x="0.2589" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CLu04ml_FDCGcyLXHTy7-151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.52;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;exitX=0.725;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="5" target="CLu04ml_FDCGcyLXHTy7-112">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="700" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="490" y="600" />
+              <mxPoint x="752" y="600" />
+              <mxPoint x="752" y="286" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CLu04ml_FDCGcyLXHTy7-152" value="Suggests possible&amp;nbsp;&lt;div&gt;solutions based on&amp;nbsp;&lt;/div&gt;&lt;div&gt;historical data&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" vertex="1" connectable="0" parent="CLu04ml_FDCGcyLXHTy7-151">
+          <mxGeometry x="-0.1043" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

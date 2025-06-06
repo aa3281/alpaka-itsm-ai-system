@@ -1,0 +1,159 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.0.16 Chrome/132.0.6834.196 Electron/34.2.0 Safari/537.36" version="26.0.16">
+  <diagram name="Page-1" id="_qwSPqpQNgEK1Dc-aNBn">
+    <mxGraphModel dx="2316" dy="2613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <object placeholders="1" c4Name="IT Support Service Pool Agent" c4Type="Person" c4Description="L1 and L2 support staff investigates, diagnoses, and resolves incident" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="7ZpiNb265ts8kYFgGnGn-1">
+          <mxCell style="html=1;fontSize=11;dashed=0;whiteSpace=wrap;fillColor=#083F75;strokeColor=#06315C;fontColor=#ffffff;shape=mxgraph.c4.person2;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];resizable=0;" parent="1" vertex="1">
+            <mxGeometry x="730" y="-500" width="200" height="180" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="zeCWQxujLAYkaSgdcuHu-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7ZpiNb265ts8kYFgGnGn-2" target="7ZpiNb265ts8kYFgGnGn-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zeCWQxujLAYkaSgdcuHu-2" value="Open ITSM system (https)&lt;div&gt;Report IT Incident&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zeCWQxujLAYkaSgdcuHu-1">
+          <mxGeometry x="-0.2132" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <object placeholders="1" c4Name="End User" c4Type="Person" c4Description="End user who encounters IT Incident" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="7ZpiNb265ts8kYFgGnGn-2">
+          <mxCell style="html=1;fontSize=11;dashed=0;whiteSpace=wrap;fillColor=#083F75;strokeColor=#06315C;fontColor=#ffffff;shape=mxgraph.c4.person2;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];resizable=0;" parent="1" vertex="1">
+            <mxGeometry x="-50" y="-730" width="200" height="180" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="7ZpiNb265ts8kYFgGnGn-3" value="Legend" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;align=left;verticalAlign=top;fillColor=none;strokeColor=none;fontColor=#4D4D4D;fontStyle=1;spacingLeft=6;spacing=0;resizable=0;" parent="1" vertex="1">
+          <mxGeometry x="800" y="-1030" width="180" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="7ZpiNb265ts8kYFgGnGn-4" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="7ZpiNb265ts8kYFgGnGn-3" vertex="1">
+          <mxGeometry y="30" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7ZpiNb265ts8kYFgGnGn-5" value="Person" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=#1E4074;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;fontColor=#FFFFFF;gradientColor=none;spacingLeft=10;spacingRight=4;" parent="7ZpiNb265ts8kYFgGnGn-4" vertex="1">
+          <mxGeometry width="180" height="30" as="geometry">
+            <mxRectangle width="180" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7ZpiNb265ts8kYFgGnGn-6" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="7ZpiNb265ts8kYFgGnGn-3" vertex="1">
+          <mxGeometry y="60" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7ZpiNb265ts8kYFgGnGn-7" value="Software System" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=#3162AF;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;fontColor=#FFFFFF;gradientColor=none;spacingLeft=10;spacingRight=4;" parent="7ZpiNb265ts8kYFgGnGn-6" vertex="1">
+          <mxGeometry width="180" height="30" as="geometry">
+            <mxRectangle width="180" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7ZpiNb265ts8kYFgGnGn-8" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="7ZpiNb265ts8kYFgGnGn-3" vertex="1">
+          <mxGeometry y="90" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7ZpiNb265ts8kYFgGnGn-9" value="Container" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=#52a2d8;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;fontColor=#FFFFFF;gradientColor=none;spacingLeft=10;spacingRight=4;" parent="7ZpiNb265ts8kYFgGnGn-8" vertex="1">
+          <mxGeometry width="180" height="30" as="geometry">
+            <mxRectangle width="180" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7ZpiNb265ts8kYFgGnGn-10" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="7ZpiNb265ts8kYFgGnGn-3" vertex="1">
+          <mxGeometry y="120" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7ZpiNb265ts8kYFgGnGn-11" value="Component" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=#7dbef2;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;fontColor=#FFFFFF;gradientColor=none;spacingLeft=10;spacingRight=4;" parent="7ZpiNb265ts8kYFgGnGn-10" vertex="1">
+          <mxGeometry width="180" height="30" as="geometry">
+            <mxRectangle width="180" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7ZpiNb265ts8kYFgGnGn-12" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="7ZpiNb265ts8kYFgGnGn-3" vertex="1">
+          <mxGeometry y="150" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7ZpiNb265ts8kYFgGnGn-13" value="External Person" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=#6b6477;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;fontColor=#FFFFFF;gradientColor=none;spacingLeft=10;spacingRight=4;" parent="7ZpiNb265ts8kYFgGnGn-12" vertex="1">
+          <mxGeometry width="180" height="30" as="geometry">
+            <mxRectangle width="180" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7ZpiNb265ts8kYFgGnGn-14" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="7ZpiNb265ts8kYFgGnGn-3" vertex="1">
+          <mxGeometry y="180" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7ZpiNb265ts8kYFgGnGn-15" value="External Software System" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=#8b8496;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;fontColor=#FFFFFF;gradientColor=none;spacingLeft=10;spacingRight=4;" parent="7ZpiNb265ts8kYFgGnGn-14" vertex="1">
+          <mxGeometry width="180" height="30" as="geometry">
+            <mxRectangle width="180" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <object placeholders="1" c4Name="Alpaka ITSM AI System" c4Type="SystemScopeBoundary" c4Application="MS Azure Cloud Services" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left&quot;&gt;[%c4Application%]&lt;/div&gt;" id="7ZpiNb265ts8kYFgGnGn-17">
+          <mxCell style="rounded=1;fontSize=11;whiteSpace=wrap;html=1;dashed=1;arcSize=20;fillColor=none;strokeColor=#666666;fontColor=#333333;labelBackgroundColor=none;align=left;verticalAlign=bottom;labelBorderColor=none;spacingTop=0;spacing=10;dashPattern=8 4;metaEdit=1;rotatable=0;perimeter=rectanglePerimeter;noLabel=0;labelPadding=0;allowArrows=0;connectable=0;expand=0;recursiveResize=0;editable=1;pointerEvents=0;absoluteArcSize=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
+            <mxGeometry x="255" y="-250" width="1165" height="1430" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="zeCWQxujLAYkaSgdcuHu-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="7ZpiNb265ts8kYFgGnGn-18" target="7ZpiNb265ts8kYFgGnGn-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zeCWQxujLAYkaSgdcuHu-11" value="Assign ticket" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zeCWQxujLAYkaSgdcuHu-9">
+          <mxGeometry x="-0.3475" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <object placeholders="1" c4Name="External ITSM system" c4Type="Software System" c4Description="Existing ITSM system" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="7ZpiNb265ts8kYFgGnGn-18">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
+            <mxGeometry x="-70" y="-440" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="Database" c4Type="Container" c4Technology="e.g. Cosmos DB" c4Description="Historical ITSM data and resolutions. Vector chuchu" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font&gt;%c4Description%&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" id="7ZpiNb265ts8kYFgGnGn-20">
+          <mxCell style="shape=cylinder3;size=15;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#23A2D9;fontSize=12;fontColor=#FFFFFF;align=center;strokeColor=#0E7DAD;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;" parent="1" vertex="1">
+            <mxGeometry x="540" y="860" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="/search-similar-incidents" c4Type="Container" c4Technology="e.g. Micronaut, etc." c4Description="Takes incident and returns past tickets with similarity to the given incident using vector-based search" label="&lt;font&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font&gt;&lt;font&gt;%c4Description%&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" id="7ZpiNb265ts8kYFgGnGn-23">
+          <mxCell style="shape=hexagon;size=50;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;labelBackgroundColor=none;fillColor=#23A2D9;fontSize=11;fontColor=#FFFFFF;align=center;strokeColor=#0E7DAD;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;" parent="1" vertex="1">
+            <mxGeometry x="390" y="320" width="200" height="170" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="/ask-assistant" c4Type="Container" c4Technology="LLM (Azure Open AI/ AI Foundry/ ML)" c4Description="Use the natural language understanding and reasoning capabilities of the LLM to generate a response to the initial prompt." label="&lt;font&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font&gt;&lt;font&gt;%c4Description%&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" id="7ZpiNb265ts8kYFgGnGn-24">
+          <mxCell style="shape=hexagon;size=50;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;labelBackgroundColor=none;fillColor=#23A2D9;fontSize=11;fontColor=#FFFFFF;align=center;strokeColor=#0E7DAD;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;" parent="1" vertex="1">
+            <mxGeometry x="730" y="60" width="200" height="170" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="zeCWQxujLAYkaSgdcuHu-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FFFFFF;" edge="1" parent="1" source="7ZpiNb265ts8kYFgGnGn-25" target="7ZpiNb265ts8kYFgGnGn-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zeCWQxujLAYkaSgdcuHu-22" value="Reads from and writes to" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#333333;" vertex="1" connectable="0" parent="zeCWQxujLAYkaSgdcuHu-21">
+          <mxGeometry x="-0.0773" y="1" relative="1" as="geometry">
+            <mxPoint x="21" y="-46" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <object placeholders="1" c4Name="/recommend-resolution" c4Type="Container" c4Technology="e.g. Micronaut, etc." c4Description="Takes incident and returns probable resolutions based on semantic similarity with historical tickets." label="&lt;font&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font&gt;&lt;font&gt;%c4Description%&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" id="7ZpiNb265ts8kYFgGnGn-25">
+          <mxCell style="shape=hexagon;size=50;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;labelBackgroundColor=none;fillColor=#23A2D9;fontSize=11;fontColor=#FFFFFF;align=center;strokeColor=#0E7DAD;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;arcSize=0;" parent="1" vertex="1">
+            <mxGeometry x="660" y="320" width="200" height="170" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="MS Teams-Integrated App" c4Type="Container" c4Technology="Microsoft 365 Agents Toolkit&#xa;.NET Core SDK&#xa;Dev Tunnel/ngrok" c4Description="Responds to chat commands&#xa;Sends chat messages" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font&gt;%c4Description%&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" id="7ZpiNb265ts8kYFgGnGn-27">
+          <mxCell style="shape=mxgraph.c4.webBrowserContainer2;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;strokeColor=#118ACD;fillColor=#23A2D9;strokeColor=#118ACD;strokeColor2=#0E7DAD;fontSize=12;fontColor=#FFFFFF;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;" parent="1" vertex="1">
+            <mxGeometry x="710" y="-160" width="240" height="160" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="7ZpiNb265ts8kYFgGnGn-28" value="where is SSO?&lt;div&gt;what abut the security stuff&lt;/div&gt;&lt;div&gt;what aboub the advanced functions?&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;what about ports and adaptors?&lt;/div&gt;&lt;div&gt;where do the different apis write what to?&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;https?&amp;nbsp;&lt;/div&gt;&lt;div&gt;swagger to identify all the methods in our API?&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="450" y="-1030" width="270" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="zeCWQxujLAYkaSgdcuHu-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.005;entryY=0.618;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7ZpiNb265ts8kYFgGnGn-1" target="7ZpiNb265ts8kYFgGnGn-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zeCWQxujLAYkaSgdcuHu-12" value="Update incident status&lt;div&gt;Provide resolution information&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zeCWQxujLAYkaSgdcuHu-10">
+          <mxGeometry x="0.1378" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zeCWQxujLAYkaSgdcuHu-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7ZpiNb265ts8kYFgGnGn-1" target="7ZpiNb265ts8kYFgGnGn-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zeCWQxujLAYkaSgdcuHu-16" value="either HTTP/Full-Duplex" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zeCWQxujLAYkaSgdcuHu-13">
+          <mxGeometry x="-0.0665" y="1" relative="1" as="geometry">
+            <mxPoint x="-1" y="-44" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <object placeholders="1" c4Name="Database" c4Type="Container" c4Technology="e.g. Cosmos DB" c4Description="Historical ITSM data and resolutions. Vector chuchu" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font&gt;%c4Description%&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" id="zeCWQxujLAYkaSgdcuHu-19">
+          <mxCell style="shape=cylinder3;size=15;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#23A2D9;fontSize=12;fontColor=#FFFFFF;align=center;strokeColor=#0E7DAD;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;" vertex="1" parent="1">
+            <mxGeometry x="849" y="593.71" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="Database" c4Type="Container" c4Technology="e.g. Cosmos DB" c4Description="Historical ITSM data and resolutions. Vector chuchu" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font&gt;%c4Description%&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" id="zeCWQxujLAYkaSgdcuHu-20">
+          <mxCell style="shape=cylinder3;size=15;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#23A2D9;fontSize=12;fontColor=#FFFFFF;align=center;strokeColor=#0E7DAD;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;" vertex="1" parent="1">
+            <mxGeometry x="1129" y="583.71" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,0 +1,28 @@
+{
+  "name": "alpaka-itsm-ai-system",
+  "version": "1.0.0",
+  "description": "AI-powered ITSM Assistant",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "npm run test",
+    "commit": "cz"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aa3281/alpaka-itsm-ai-system.git"
+  },
+  "keywords": [
+    "alpaka",
+    "ai",
+    "itsm"
+  ],
+  "author": "alex",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aa3281/alpaka-itsm-ai-system/issues"
+  },
+  "homepage": "https://github.com/aa3281/alpaka-itsm-ai-system#readme"
+}
