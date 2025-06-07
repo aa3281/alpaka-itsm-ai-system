@@ -14,12 +14,12 @@
         "outline": "outline.png"
     },
     "name": {
-        "short": "alpaka-itsm-ai-system${{APP_NAME_SUFFIX}}",
-        "full": "full name for alpaka-itsm-ai-system"
+        "short": "alpaka-teams-bot${{APP_NAME_SUFFIX}}",
+        "full": "full name for alpaka-teams-bot"
     },
     "description": {
-        "short": "short description for alpaka-itsm-ai-system",
-        "full": "full description for alpaka-itsm-ai-system"
+        "short": "short description for alpaka-teams-bot",
+        "full": "full description for alpaka-teams-bot"
     },
     "accentColor": "#FFFFFF",
     "bots": [
