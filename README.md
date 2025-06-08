@@ -20,7 +20,7 @@ This, in turn, reminded me of the phrase, "Alpaca iriwa!" which they teach you t
 Therefore, I named the project "Alpaka".
 
 ## Demo and Screenshot
-![demo](/docs/demo.png)
+![demo](/docs/alpaka-demo.gif)
 
 Here is a working live demo : [COMING SOON]
 
