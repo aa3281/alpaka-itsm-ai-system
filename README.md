@@ -1,7 +1,7 @@
 # Alpaka ITSM AI System
 > Intelligent Incident Resolution with AI Assistance
 
-The purpose of this project is to develop a cost-effective, AI-powered assistant to enhance the IT Support activities of the organisation. 
+The purpose of this project is to develop a cost-effective, AI-powered MS-Teams integrated assistant to enhance the IT Support activities of the organisation. 
 
 The business outcome is to:
 1. Reduce ticket resolution times
