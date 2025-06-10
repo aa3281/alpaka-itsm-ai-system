@@ -20,8 +20,13 @@ This, in turn, reminded me of the phrase, "Alpaca iriwa!" which they teach you t
 Therefore, I named the project "Alpaka".
 
 ## Demo and Screenshot
+### Teams-Integrated Chatbot 
 ![demo](/docs/alpaka-demo.gif)
 
+### Search Indexer
+![search-indexer](/docs/ai-search-indexer.gif)
+
+### Live Demo
 Here is a working live demo : [COMING SOON]
 
 ## Key Features
