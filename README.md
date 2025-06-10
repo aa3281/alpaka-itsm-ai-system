@@ -68,7 +68,7 @@ Easily set up a local development environment.
 ## To-Do
 - [x] Create MS Teams Integrated bot scaffolding
 - [x] Ensure bot responds to parametric data
-- [ ] Create indexer and upload custom data embeddings to vector database
+- [x] Create indexer and upload custom data embeddings to vector database
 - [ ] Implement vector-based search
 - [ ] Implement semantic reranking
 - [ ] Implement prompt augmentation and response generation
