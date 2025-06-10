@@ -48,18 +48,32 @@ The Architecture Vision Document is available here [test](/docs/Architecture%20V
 - Azure AI Search resource
 
 ## Development
-Easily set up a local development environment.
+Easily set up a local development environment. 
+(In progress. you need to set up a separate environment for each app.)
 
 1. Clone the repo
     ```git clone git@github.com:aa3281/alpaka-itsm-ai-system.git```
-2. Install the NPM packages 
+
+### alpaka-teams-bot
+
+1. Install the NPM packages 
     ```npm install```
-3. Update the following values in apps > ms-teams-agent > alpaka-teams-bot > env > .env.playground.user file.
+2. Update the following values in apps > ms-teams-agent > alpaka-teams-bot > env > .env.playground.user file.
     ```
     SECRET_AZURE_OPENAI_API_KEY=<your-key>
     AZURE_OPENAI_ENDPOINT=<your-endpoint>
     AZURE_OPENAI_DEPLOYMENT_NAME=<your-deployment>
     ```
+
+### ai-search-indexer
+1. Install the NPM packaes
+2.  Update the following values in apps > ai-search-indexer > sample.env
+    ```
+    SEARCH_API_KEY=
+    SEARCH_API_ENDPOINT=https://[UPDATE-THIS].search.windows.net
+    ```
+    Then rename sample.env to just .env
+3. run `node index.js`
 
 ## Built With
 - Javascript
