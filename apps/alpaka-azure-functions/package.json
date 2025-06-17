@@ -1,5 +1,5 @@
 {
-  "name": "",
+  "name": "alpaka-azure-functions",
   "version": "1.0.0",
   "description": "",
   "main": "src/functions/*.js",
@@ -8,9 +8,11 @@
     "test": "echo \"No tests yet...\""
   },
   "dependencies": {
-    "@azure/functions": "^4.0.0"
+    "@azure/functions": "^4.0.0",
+    "dotenv": "^16.5.0"
   },
   "devDependencies": {
+    "@azure/cosmos": "^4.4.1",
     "azure-functions-core-tools": "^4.x"
   }
 }
