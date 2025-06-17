@@ -1,34 +1,30 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.0.16 Chrome/132.0.6834.196 Electron/34.2.0 Safari/537.36" version="26.0.16">
   <diagram name="Page-1" id="_qwSPqpQNgEK1Dc-aNBn">
-    <mxGraphModel dx="3376" dy="2386" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5052" dy="3672" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <object placeholders="1" c4Name="IT Support Service Pool Agent" c4Type="Person" c4Description="L1 and L2 support staff investigates, diagnoses, and resolves incident" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="7ZpiNb265ts8kYFgGnGn-1">
-          <mxCell style="html=1;fontSize=11;dashed=0;whiteSpace=wrap;fillColor=#083F75;strokeColor=#06315C;fontColor=#ffffff;shape=mxgraph.c4.person2;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];resizable=0;" parent="1" vertex="1">
-            <mxGeometry x="440" y="-500" width="200" height="180" as="geometry" />
-          </mxCell>
-        </object>
-        <mxCell id="zeCWQxujLAYkaSgdcuHu-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7ZpiNb265ts8kYFgGnGn-2" target="7ZpiNb265ts8kYFgGnGn-18">
+        <mxCell id="zeCWQxujLAYkaSgdcuHu-85" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=0;" edge="1" parent="1" source="7ZpiNb265ts8kYFgGnGn-1" target="zeCWQxujLAYkaSgdcuHu-83">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="110" y="-490" />
-              <mxPoint x="110" y="-490" />
+              <mxPoint x="370" y="-530" />
+              <mxPoint x="1140" y="-530" />
+              <mxPoint x="1140" y="545" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="zeCWQxujLAYkaSgdcuHu-2" value="Open ITSM system&lt;div&gt;(https)&lt;div&gt;Report IT Incident&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zeCWQxujLAYkaSgdcuHu-1">
-          <mxGeometry x="-0.2132" y="-3" relative="1" as="geometry">
-            <mxPoint x="3" y="6" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <object placeholders="1" c4Name="End User" c4Type="Person" c4Description="End user who encounters IT Incident" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="7ZpiNb265ts8kYFgGnGn-2">
+        <object placeholders="1" c4Name="IT Support Service Pool Agent" c4Type="Person" c4Description="L1 and L2 support staff investigates, diagnoses, and resolves incident" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="7ZpiNb265ts8kYFgGnGn-1">
           <mxCell style="html=1;fontSize=11;dashed=0;whiteSpace=wrap;fillColor=#083F75;strokeColor=#06315C;fontColor=#ffffff;shape=mxgraph.c4.person2;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];resizable=0;" parent="1" vertex="1">
-            <mxGeometry x="-50" y="-730" width="200" height="180" as="geometry" />
+            <mxGeometry x="220" y="-800" width="200" height="180" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="End User" c4Type="Person" c4Description="End user who encounters IT Incident" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="7ZpiNb265ts8kYFgGnGn-2">
+          <mxCell style="html=1;fontSize=11;dashed=0;whiteSpace=wrap;fillColor=#6C6477;strokeColor=#4D4D4D;fontColor=#ffffff;shape=mxgraph.c4.person2;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];resizable=0;" parent="1" vertex="1">
+            <mxGeometry x="680" y="-1040" width="200" height="180" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="7ZpiNb265ts8kYFgGnGn-3" value="Legend" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;align=left;verticalAlign=top;fillColor=none;strokeColor=none;fontColor=#4D4D4D;fontStyle=1;spacingLeft=6;spacing=0;resizable=0;" parent="1" vertex="1">
-          <mxGeometry x="800" y="-1030" width="180" height="210" as="geometry" />
+          <mxGeometry x="1440" y="810" width="180" height="210" as="geometry" />
         </mxCell>
         <mxCell id="7ZpiNb265ts8kYFgGnGn-4" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="7ZpiNb265ts8kYFgGnGn-3" vertex="1">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -80,98 +76,83 @@
         </mxCell>
         <object placeholders="1" c4Name="Alpaka ITSM AI System" c4Type="SystemScopeBoundary" c4Application="MS Azure Cloud Services" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left&quot;&gt;[%c4Application%]&lt;/div&gt;" id="7ZpiNb265ts8kYFgGnGn-17">
           <mxCell style="rounded=1;fontSize=11;whiteSpace=wrap;html=1;dashed=1;arcSize=20;fillColor=none;strokeColor=#666666;fontColor=#333333;labelBackgroundColor=none;align=left;verticalAlign=bottom;labelBorderColor=none;spacingTop=0;spacing=10;dashPattern=8 4;metaEdit=1;rotatable=0;perimeter=rectanglePerimeter;noLabel=0;labelPadding=0;allowArrows=0;connectable=0;expand=0;recursiveResize=0;editable=1;pointerEvents=0;absoluteArcSize=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
-            <mxGeometry x="190" y="-250" width="1165" height="1430" as="geometry" />
+            <mxGeometry x="40" y="-560" width="1180" height="1290" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="zeCWQxujLAYkaSgdcuHu-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="7ZpiNb265ts8kYFgGnGn-18" target="7ZpiNb265ts8kYFgGnGn-1">
+        <mxCell id="zeCWQxujLAYkaSgdcuHu-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="7ZpiNb265ts8kYFgGnGn-18" target="7ZpiNb265ts8kYFgGnGn-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zeCWQxujLAYkaSgdcuHu-11" value="Assign ticket" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zeCWQxujLAYkaSgdcuHu-9">
           <mxGeometry x="-0.3475" y="1" relative="1" as="geometry">
-            <mxPoint x="62" y="1" as="offset" />
+            <mxPoint x="-41" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <object placeholders="1" c4Name="External ITSM system" c4Type="Software System" c4Description="Existing ITSM system" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="7ZpiNb265ts8kYFgGnGn-18">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
-            <mxGeometry x="-70" y="-440" width="240" height="120" as="geometry" />
+            <mxGeometry x="660" y="-740" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
-        <object placeholders="1" c4Name="Database" c4Type="Container" c4Technology="e.g. Cosmos DB" c4Description="Historical ITSM data and resolutions. Vector chuchu" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font&gt;%c4Description%&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" id="7ZpiNb265ts8kYFgGnGn-20">
-          <mxCell style="shape=cylinder3;size=15;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#23A2D9;fontSize=12;fontColor=#FFFFFF;align=center;strokeColor=#0E7DAD;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;" parent="1" vertex="1">
-            <mxGeometry x="540" y="860" width="240" height="120" as="geometry" />
-          </mxCell>
-        </object>
-        <object placeholders="1" c4Name="/search-similar-incidents" c4Type="Container" c4Technology="e.g. Micronaut, etc." c4Description="Takes incident and returns past tickets with similarity to the given incident using vector-based search" label="&lt;font&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font&gt;&lt;font&gt;%c4Description%&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" id="7ZpiNb265ts8kYFgGnGn-23">
-          <mxCell style="shape=hexagon;size=50;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;labelBackgroundColor=none;fillColor=#23A2D9;fontSize=11;fontColor=#FFFFFF;align=center;strokeColor=#0E7DAD;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;" parent="1" vertex="1">
-            <mxGeometry x="390" y="320" width="200" height="170" as="geometry" />
-          </mxCell>
-        </object>
-        <object placeholders="1" c4Name="/ask-assistant" c4Type="Container" c4Technology="LLM (Azure Open AI/ AI Foundry/ ML)" c4Description="Use the natural language understanding and reasoning capabilities of the LLM to generate a response to the initial prompt." label="&lt;font&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font&gt;&lt;font&gt;%c4Description%&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" id="7ZpiNb265ts8kYFgGnGn-24">
-          <mxCell style="shape=hexagon;size=50;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;labelBackgroundColor=none;fillColor=#23A2D9;fontSize=11;fontColor=#FFFFFF;align=center;strokeColor=#0E7DAD;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;" parent="1" vertex="1">
-            <mxGeometry x="1000" y="320" width="200" height="170" as="geometry" />
-          </mxCell>
-        </object>
-        <mxCell id="zeCWQxujLAYkaSgdcuHu-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FFFFFF;" edge="1" parent="1" source="7ZpiNb265ts8kYFgGnGn-25" target="7ZpiNb265ts8kYFgGnGn-20">
+        <mxCell id="zeCWQxujLAYkaSgdcuHu-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7ZpiNb265ts8kYFgGnGn-23" target="7ZpiNb265ts8kYFgGnGn-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zeCWQxujLAYkaSgdcuHu-22" value="Reads from and writes to" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#333333;" vertex="1" connectable="0" parent="zeCWQxujLAYkaSgdcuHu-21">
-          <mxGeometry x="-0.0773" y="1" relative="1" as="geometry">
-            <mxPoint x="21" y="-46" as="offset" />
+        <mxCell id="zeCWQxujLAYkaSgdcuHu-124" value="Context: Returns past pickets&amp;nbsp;&lt;br&gt;with similarity to the given incident" style="edgeLabel;align=center;verticalAlign=middle;resizable=0;points=[];labelBorderColor=default;spacing=0;labelPadding=0;html=1;spacingTop=0;textShadow=1;" vertex="1" connectable="0" parent="zeCWQxujLAYkaSgdcuHu-123">
+          <mxGeometry x="-0.1459" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <object placeholders="1" c4Name="/recommend-resolution" c4Type="Container" c4Technology="e.g. Micronaut, etc." c4Description="Takes incident and returns probable resolutions based on semantic similarity with historical tickets." label="&lt;font&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font&gt;&lt;font&gt;%c4Description%&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" id="7ZpiNb265ts8kYFgGnGn-25">
-          <mxCell style="shape=hexagon;size=50;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;labelBackgroundColor=none;fillColor=#23A2D9;fontSize=11;fontColor=#FFFFFF;align=center;strokeColor=#0E7DAD;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;arcSize=0;" parent="1" vertex="1">
-            <mxGeometry x="660" y="320" width="200" height="170" as="geometry" />
+        <object placeholders="1" c4Name="/search-similar-incidents" c4Type="Azure AI Search" c4Technology="Data Plane REST API" c4Description="Encoding step that converts the input into a vector, then performs vector-based search for semantic likeness" label="&lt;font&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font&gt;&lt;font&gt;%c4Description%&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" id="7ZpiNb265ts8kYFgGnGn-23">
+          <mxCell style="shape=hexagon;size=50;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;labelBackgroundColor=none;fillColor=#23A2D9;fontSize=11;fontColor=#FFFFFF;align=center;strokeColor=#0E7DAD;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;fixedWidth=0;spacing=2;" parent="1" vertex="1">
+            <mxGeometry x="220" y="-190" width="200" height="170" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="7ZpiNb265ts8kYFgGnGn-28" value="where is SSO?&lt;div&gt;what abut the security stuff&lt;/div&gt;&lt;div&gt;what aboub the advanced functions?&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;what about ports and adaptors?&lt;/div&gt;&lt;div&gt;where do the different apis write what to?&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;https?&amp;nbsp;&lt;/div&gt;&lt;div&gt;swagger to identify all the methods in our API?&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="450" y="-1030" width="270" height="140" as="geometry" />
+        <mxCell id="zeCWQxujLAYkaSgdcuHu-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7ZpiNb265ts8kYFgGnGn-24" target="zeCWQxujLAYkaSgdcuHu-84">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zeCWQxujLAYkaSgdcuHu-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.005;entryY=0.618;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7ZpiNb265ts8kYFgGnGn-1" target="7ZpiNb265ts8kYFgGnGn-18">
+        <object placeholders="1" c4Name="/ask-assistant" c4Type="Container" c4Technology="LLM (Azure Open AI/ AI Foundry/ ML)" c4Description="Use the natural language understanding and reasoning capabilities of the LLM to generate a response to the initial prompt." label="&lt;font&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font&gt;&lt;font&gt;%c4Description%&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" id="7ZpiNb265ts8kYFgGnGn-24">
+          <mxCell style="shape=hexagon;size=50;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;labelBackgroundColor=none;fillColor=#23A2D9;fontSize=11;fontColor=#FFFFFF;align=center;strokeColor=#0E7DAD;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;" parent="1" vertex="1">
+            <mxGeometry x="220" y="510" width="200" height="170" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="zeCWQxujLAYkaSgdcuHu-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7ZpiNb265ts8kYFgGnGn-25" target="7ZpiNb265ts8kYFgGnGn-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="399.99999999999955" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zeCWQxujLAYkaSgdcuHu-167" value="Context: Returns probable resolutions&amp;nbsp;&lt;div&gt;based on semantic similarity with historical tickets&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBorderColor=default;textShadow=1;" vertex="1" connectable="0" parent="zeCWQxujLAYkaSgdcuHu-125">
+          <mxGeometry x="0.0818" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <object placeholders="1" c4Name="/recommend-resolution" c4Type="Container" c4Technology="e.g. Micronaut, etc." c4Description="Performs semantic reranking to return probable resolutions based on semantic similarity with historical tickets." label="&lt;font&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font&gt;&lt;font&gt;%c4Description%&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" id="7ZpiNb265ts8kYFgGnGn-25">
+          <mxCell style="shape=hexagon;size=50;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;labelBackgroundColor=none;fillColor=#23A2D9;fontSize=11;fontColor=#FFFFFF;align=center;strokeColor=#0E7DAD;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;arcSize=0;" parent="1" vertex="1">
+            <mxGeometry x="220" y="140" width="200" height="170" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="zeCWQxujLAYkaSgdcuHu-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.98;exitY=0.833;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7ZpiNb265ts8kYFgGnGn-1" target="7ZpiNb265ts8kYFgGnGn-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zeCWQxujLAYkaSgdcuHu-12" value="Update incident status&lt;div&gt;Provide resolution information&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zeCWQxujLAYkaSgdcuHu-10">
           <mxGeometry x="0.1378" y="1" relative="1" as="geometry">
-            <mxPoint x="32" as="offset" />
+            <mxPoint x="-13" y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
-        <object placeholders="1" c4Name="Database" c4Type="Container" c4Technology="e.g. Cosmos DB" c4Description="Historical ITSM data and resolutions. Vector chuchu" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font&gt;%c4Description%&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" id="zeCWQxujLAYkaSgdcuHu-19">
-          <mxCell style="shape=cylinder3;size=15;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#23A2D9;fontSize=12;fontColor=#FFFFFF;align=center;strokeColor=#0E7DAD;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;" vertex="1" parent="1">
-            <mxGeometry x="849" y="593.71" width="240" height="120" as="geometry" />
-          </mxCell>
-        </object>
-        <object placeholders="1" c4Name="Database" c4Type="Container" c4Technology="e.g. Cosmos DB" c4Description="Historical ITSM data and resolutions. Vector chuchu" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font&gt;%c4Description%&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" id="zeCWQxujLAYkaSgdcuHu-20">
-          <mxCell style="shape=cylinder3;size=15;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#23A2D9;fontSize=12;fontColor=#FFFFFF;align=center;strokeColor=#0E7DAD;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;" vertex="1" parent="1">
-            <mxGeometry x="1129" y="583.71" width="240" height="120" as="geometry" />
-          </mxCell>
-        </object>
-        <object placeholders="1" c4Name="LangChain" c4Type="Container" c4Technology="e.g. SpringBoot, ElasticSearch, etc." c4Description="Description of container role/responsibility." label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="zeCWQxujLAYkaSgdcuHu-27">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#23A2D9;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0E7DAD;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
-            <mxGeometry x="500" y="160" width="240" height="120" as="geometry" />
-          </mxCell>
-        </object>
         <mxCell id="zeCWQxujLAYkaSgdcuHu-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.199;entryY=1.029;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7ZpiNb265ts8kYFgGnGn-18" target="7ZpiNb265ts8kYFgGnGn-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zeCWQxujLAYkaSgdcuHu-34" value="Receive incident&lt;div&gt;update&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zeCWQxujLAYkaSgdcuHu-33">
           <mxGeometry x="0.2428" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-3" y="-9" as="offset" />
           </mxGeometry>
         </mxCell>
-        <object placeholders="1" c4Name="MS Teams-Integrated App" c4Type="Container" c4Technology="Microsoft 365 Agents Toolkit&#xa;.NET Core SDK&#xa;Dev Tunnel/ngrok" c4Description="Responds to chat commands&#xa;Sends chat messages" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font&gt;%c4Description%&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" id="zeCWQxujLAYkaSgdcuHu-46">
-          <mxCell style="shape=mxgraph.c4.webBrowserContainer2;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;strokeColor=#118ACD;fillColor=#23A2D9;strokeColor=#118ACD;strokeColor2=#0E7DAD;fontSize=12;fontColor=#FFFFFF;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;" vertex="1" parent="1">
-            <mxGeometry x="420" y="-110" width="240" height="160" as="geometry" />
-          </mxCell>
-        </object>
         <mxCell id="zeCWQxujLAYkaSgdcuHu-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.292;exitY=0.013;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="zeCWQxujLAYkaSgdcuHu-46" target="7ZpiNb265ts8kYFgGnGn-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="490" y="-259" as="sourcePoint" />
+            <mxPoint x="270" y="-629" as="sourcePoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zeCWQxujLAYkaSgdcuHu-50" value="Response" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zeCWQxujLAYkaSgdcuHu-47">
           <mxGeometry x="0.0492" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="-38" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zeCWQxujLAYkaSgdcuHu-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.707;entryY=0.029;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7ZpiNb265ts8kYFgGnGn-1" target="zeCWQxujLAYkaSgdcuHu-46">
@@ -179,7 +160,189 @@
         </mxCell>
         <mxCell id="zeCWQxujLAYkaSgdcuHu-49" value="Query" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zeCWQxujLAYkaSgdcuHu-48">
           <mxGeometry x="-0.1993" y="1" relative="1" as="geometry">
-            <mxPoint x="-1" y="14" as="offset" />
+            <mxPoint x="-6" y="-28" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zeCWQxujLAYkaSgdcuHu-54" value="(2&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;) Augment&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="170" y="460" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zeCWQxujLAYkaSgdcuHu-55" value="(3) Generate" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="370" y="860" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zeCWQxujLAYkaSgdcuHu-56" value="(1) Retrieve" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="140" y="-290" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zeCWQxujLAYkaSgdcuHu-78" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1300" y="-300" width="310" height="209.12" as="geometry" />
+        </mxCell>
+        <object placeholders="1" c4Name="Azure AI Search" c4Type="Software System" c4Description="Information retrieval system that allows models to search other databases. FKA Azure Cognitive Search. Enable Semantic Ranking" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" FKA="Azure Cognitive Search" id="zeCWQxujLAYkaSgdcuHu-76">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="zeCWQxujLAYkaSgdcuHu-78">
+            <mxGeometry y="89.12" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="zeCWQxujLAYkaSgdcuHu-61" value="Azure AI Search" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/app_services/Search_Services.svg;fillColor=light-dark(rgba(0, 0, 0, 0), #d4d4ff);" vertex="1" parent="zeCWQxujLAYkaSgdcuHu-78">
+          <mxGeometry x="290" y="101.51999999999991" width="34" height="24.56" as="geometry" />
+        </mxCell>
+        <mxCell id="zeCWQxujLAYkaSgdcuHu-194" value="Vector Search Index" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/documents.svg;" vertex="1" parent="zeCWQxujLAYkaSgdcuHu-78">
+          <mxGeometry x="292" y="160.64000000000001" width="32" height="48.48" as="geometry" />
+        </mxCell>
+        <mxCell id="zeCWQxujLAYkaSgdcuHu-94" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;" edge="1" parent="1" source="7ZpiNb265ts8kYFgGnGn-24" target="zeCWQxujLAYkaSgdcuHu-46">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="120" y="595" />
+              <mxPoint x="120" y="-400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zeCWQxujLAYkaSgdcuHu-126" value="Deliver response to UI" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-90;" vertex="1" connectable="0" parent="zeCWQxujLAYkaSgdcuHu-94">
+          <mxGeometry x="-0.1506" y="4" relative="1" as="geometry">
+            <mxPoint x="4" y="-116" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zeCWQxujLAYkaSgdcuHu-99" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="390" y="840" width="240" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="zeCWQxujLAYkaSgdcuHu-60" value="Azure Open AI" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/ai_machine_learning/Azure_OpenAI.svg;" vertex="1" parent="zeCWQxujLAYkaSgdcuHu-99">
+          <mxGeometry x="86" width="68" height="68" as="geometry" />
+        </mxCell>
+        <object placeholders="1" c4Name="LLM (gpt-4o)" c4Type="Software System" c4Description="Generative Pretrained Transformer (GPT),. Deployed in Azure AI Foundry" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="zeCWQxujLAYkaSgdcuHu-98">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="zeCWQxujLAYkaSgdcuHu-99">
+            <mxGeometry y="100" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="zeCWQxujLAYkaSgdcuHu-110" value="(1.A) Vector-based search" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=3" vertex="1" parent="1">
+          <mxGeometry x="540" y="-190" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zeCWQxujLAYkaSgdcuHu-86" value="" style="group;textShadow=1;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="610" y="440" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="zeCWQxujLAYkaSgdcuHu-95" value="" style="group" vertex="1" connectable="0" parent="zeCWQxujLAYkaSgdcuHu-86">
+          <mxGeometry width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="zeCWQxujLAYkaSgdcuHu-53" value="Prompt" style="swimlane;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="zeCWQxujLAYkaSgdcuHu-95">
+          <mxGeometry width="200" height="190" as="geometry">
+            <mxRectangle x="980" y="140" width="80" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zeCWQxujLAYkaSgdcuHu-109" value="" style="group" vertex="1" connectable="0" parent="zeCWQxujLAYkaSgdcuHu-53">
+          <mxGeometry x="10" y="25" width="180" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="zeCWQxujLAYkaSgdcuHu-83" value="Query" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zeCWQxujLAYkaSgdcuHu-109">
+          <mxGeometry x="2.5" y="60" width="177.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zeCWQxujLAYkaSgdcuHu-84" value="Context (sources)" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="zeCWQxujLAYkaSgdcuHu-109">
+          <mxGeometry x="2.5" y="110" width="177.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zeCWQxujLAYkaSgdcuHu-108" value="GROUNDED_PROMPT = &quot;&quot;&quot;You are an intelligent support assistant that helps IT agents resolve incidents by summarising incoming tickets and recommending..." style="text;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=10;fontStyle=0;spacing=0;" vertex="1" parent="zeCWQxujLAYkaSgdcuHu-53">
+          <mxGeometry x="11.25" y="25" width="180" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="zeCWQxujLAYkaSgdcuHu-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.8;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7ZpiNb265ts8kYFgGnGn-2" target="7ZpiNb265ts8kYFgGnGn-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zeCWQxujLAYkaSgdcuHu-117" value="Open ITSM system&lt;div&gt;Report IT Incident&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zeCWQxujLAYkaSgdcuHu-116">
+          <mxGeometry x="0.0005" y="-4" relative="1" as="geometry">
+            <mxPoint x="5" y="-25" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zeCWQxujLAYkaSgdcuHu-127" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="200" y="-480" width="292" height="160" as="geometry" />
+        </mxCell>
+        <object placeholders="1" c4Name="MS Teams-Integrated Bot App" c4Type="Container" c4Technology="Microsoft 365 Agents Toolkit&#xa;.NET Core SDK&#xa;Dev Tunnel/ngrok" c4Description="Responds to chat commands&#xa;Sends chat messages" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font&gt;%c4Description%&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" id="zeCWQxujLAYkaSgdcuHu-46">
+          <mxCell style="shape=mxgraph.c4.webBrowserContainer2;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;strokeColor=#118ACD;fillColor=#23A2D9;strokeColor=#118ACD;strokeColor2=#0E7DAD;fontSize=12;fontColor=#FFFFFF;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;" vertex="1" parent="zeCWQxujLAYkaSgdcuHu-127">
+            <mxGeometry width="240" height="160" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="zeCWQxujLAYkaSgdcuHu-59" value="MS Teams" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#001DBC;fillColor=#0050ef;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.microsoft_teams;fontColor=#333333;" vertex="1" parent="zeCWQxujLAYkaSgdcuHu-127">
+          <mxGeometry x="258" y="20" width="34" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="zeCWQxujLAYkaSgdcuHu-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zeCWQxujLAYkaSgdcuHu-53" target="zeCWQxujLAYkaSgdcuHu-98">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="710" y="1000" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zeCWQxujLAYkaSgdcuHu-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="zeCWQxujLAYkaSgdcuHu-98" target="7ZpiNb265ts8kYFgGnGn-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zeCWQxujLAYkaSgdcuHu-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zeCWQxujLAYkaSgdcuHu-46" target="7ZpiNb265ts8kYFgGnGn-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="-130" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zeCWQxujLAYkaSgdcuHu-147" value="Provides incident information" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBorderColor=default;spacing=2;imageWidth=27;textShadow=1;" vertex="1" connectable="0" parent="zeCWQxujLAYkaSgdcuHu-135">
+          <mxGeometry x="-0.0239" y="2" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zeCWQxujLAYkaSgdcuHu-152" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="zeCWQxujLAYkaSgdcuHu-76" target="zeCWQxujLAYkaSgdcuHu-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="960" y="-239.94000000000045" as="sourcePoint" />
+            <mxPoint x="630" y="-399.94000000000045" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1360" y="-420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zeCWQxujLAYkaSgdcuHu-175" value="Query DataSource&lt;div&gt;keycless connection via MS Entra ID&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBorderColor=none;textShadow=0;" vertex="1" connectable="0" parent="zeCWQxujLAYkaSgdcuHu-152">
+          <mxGeometry x="-0.2246" y="1" relative="1" as="geometry">
+            <mxPoint x="-286" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zeCWQxujLAYkaSgdcuHu-171" value="(1.B) Semantic reranking" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=3" vertex="1" parent="1">
+          <mxGeometry x="540" y="160" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zeCWQxujLAYkaSgdcuHu-176" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="zeCWQxujLAYkaSgdcuHu-76">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="-130.00000000000045" as="sourcePoint" />
+            <mxPoint x="1290" y="-175.8800000000001" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="-136" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zeCWQxujLAYkaSgdcuHu-177" value="Retrieve documents with high semantic or conceptual likeness to incident" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBorderColor=default;textShadow=1;" vertex="1" connectable="0" parent="zeCWQxujLAYkaSgdcuHu-176">
+          <mxGeometry x="0.001" y="-3" relative="1" as="geometry">
+            <mxPoint x="-87" y="-6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zeCWQxujLAYkaSgdcuHu-178" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="7ZpiNb265ts8kYFgGnGn-25" target="zeCWQxujLAYkaSgdcuHu-76">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1180" y="-130" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1360" y="225" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zeCWQxujLAYkaSgdcuHu-179" value="Semantic ranking for top 50 results&#xa;Returns semantic captions and extracts semantic answers in response&#xa;Expands initial query string into multiple semantically similar query strings (query rewrite)" style="edgeLabel;align=center;verticalAlign=middle;resizable=0;points=[];labelBorderColor=default;textShadow=1;" vertex="1" connectable="0" parent="zeCWQxujLAYkaSgdcuHu-178">
+          <mxGeometry x="-0.4127" y="-1" relative="1" as="geometry">
+            <mxPoint x="12" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zeCWQxujLAYkaSgdcuHu-185" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="600" y="-580" width="374" height="220.00000000000003" as="geometry" />
+        </mxCell>
+        <mxCell id="zeCWQxujLAYkaSgdcuHu-114" value="" style="group" vertex="1" connectable="0" parent="zeCWQxujLAYkaSgdcuHu-185">
+          <mxGeometry x="60" width="314" height="220.00000000000003" as="geometry" />
+        </mxCell>
+        <mxCell id="zeCWQxujLAYkaSgdcuHu-79" value="" style="group" vertex="1" connectable="0" parent="zeCWQxujLAYkaSgdcuHu-114">
+          <mxGeometry width="240" height="220" as="geometry" />
+        </mxCell>
+        <object placeholders="1" c4Name="Vector Database" c4Type="Container" c4Technology="Cosmos DB Vector Database Extension" c4Description="Store embeddings data&#xa;Provide vector-similarity search" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font&gt;%c4Description%&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" id="zeCWQxujLAYkaSgdcuHu-20">
+          <mxCell style="shape=cylinder3;size=15;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#23A2D9;fontSize=12;fontColor=#FFFFFF;align=center;strokeColor=#0E7DAD;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;" vertex="1" parent="zeCWQxujLAYkaSgdcuHu-79">
+            <mxGeometry y="100" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="zeCWQxujLAYkaSgdcuHu-58" value="Cosmos DB" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Azure_Cosmos_DB.svg;" vertex="1" parent="zeCWQxujLAYkaSgdcuHu-185">
+          <mxGeometry y="120" width="34" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="zeCWQxujLAYkaSgdcuHu-187" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="7ZpiNb265ts8kYFgGnGn-18" target="zeCWQxujLAYkaSgdcuHu-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zeCWQxujLAYkaSgdcuHu-188" value="Manually adding data or via Documents - Index REST API" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zeCWQxujLAYkaSgdcuHu-187">
+          <mxGeometry x="-0.2271" y="-4" relative="1" as="geometry">
+            <mxPoint x="-119" y="-4" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
