@@ -10,15 +10,6 @@ The business outcome is to:
 
 The solution should be easy-to-use, secure, and use Azure cloud services.
 
-## Why is it Named Alpaka?
-The problem statement title for the hackathon is "Intelligent Incident Resolution with AI Assistance".
-
-So, in my head the acronym is "IIRewAA".
-
-This, in turn, reminded me of the phrase, "Alpaca iriwa!" which they teach you to say in Alpaca World in South Korea. (I'm not Korean, I just like Alpacas.)
-
-Therefore, I named the project "Alpaka".
-
 ## Demo and Screenshot
 ### Teams-Integrated Chatbot 
 ![demo](/docs/alpaka-demo.gif)
